@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Boar house blog",
+    "description": "",
+    "home_page_url": "https://test",
+    "feed_url": "https://test/feed.json",
+    "user_comment": "",
+    "icon": "https://test/media/website/video_2024-07-08_01-25-49.mp4",
+    "author": {
+        "name": "Ivan"
+    },
+    "items": [
+        {
+            "id": "https://test/moy-pervyy-post-chtoby-proverit-novyy-instrument.html",
+            "url": "https://test/moy-pervyy-post-chtoby-proverit-novyy-instrument.html",
+            "title": "Мой первый пост чтобы проверить новый инструмент.",
+            "summary": "Начинаю писать посты на Publi",
+            "content_html": "<p>Начинаю писать посты на Publi</p>",
+            "author": {
+                "name": "Ivan"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-07-19T00:48:12+03:00",
+            "date_modified": "2024-07-19T00:48:12+03:00"
+        }
+    ]
+}

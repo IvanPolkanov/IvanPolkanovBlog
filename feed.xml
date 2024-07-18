@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Boar house blog</title>
+    <link href="https://test/feed.xml" rel="self" />
+    <link href="https://test" />
+    <updated>2024-07-19T00:48:12+03:00</updated>
+    <author>
+        <name>Ivan</name>
+    </author>
+    <id>https://test</id>
+
+    <entry>
+        <title>Мой первый пост чтобы проверить новый инструмент.</title>
+        <author>
+            <name>Ivan</name>
+        </author>
+        <link href="https://test/moy-pervyy-post-chtoby-proverit-novyy-instrument.html"/>
+        <id>https://test/moy-pervyy-post-chtoby-proverit-novyy-instrument.html</id>
+
+        <updated>2024-07-19T00:48:12+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Начинаю писать посты на Publi
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Начинаю писать посты на Publi</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
